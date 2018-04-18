@@ -1,19 +1,6 @@
-# Particle Jekyll Theme
+# My Portfolio
+Based on the particle jekyll theme.
 
-![](./particle.jpg)
-
-This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
-
-The Theme features:
-
-- Gulp
-- SASS
-- Sweet Scroll
-- Particle.js
-- BrowserSync
-- Font Awesome and Devicon icons
-- Google Analytics
-- Info Customization
 
 ## Basic Setup
 
@@ -37,9 +24,7 @@ username: Lorem Ipsum
 user_description: Anon Developer at Lorem Ipsum Dolor
 user_title: Anon Developer
 email: anon@anon.com
-twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
 ```
 
 **Don't forget to change your url before you deploy your site!**
