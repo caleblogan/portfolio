@@ -1,7 +1,7 @@
 # Site settings
 title: Caleb Logan
 description: Caleb Logans portfolio
-#baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.caleblogan.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
